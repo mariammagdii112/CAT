@@ -1,0 +1,53 @@
+body{
+        background-color: rgb(238, 238, 238);
+}
+.name{
+        padding-left: 20px;
+}
+.navbar{
+        background-color:#424242;
+}
+.back-img{
+        background-image: url(../imgs/cetty.jpeg);
+        background-size: cover;
+        background-position: center;
+        height: 560px;
+        
+        
+}
+.img-title{
+        margin-top: 230px;
+        
+}
+.button{
+        margin: auto;
+        display: block;
+        width: 15%;
+}
+/* ////////////////////// */
+.home-content{
+        background-color: rgb(221, 221, 221);
+}
+.title{
+margin-left: 25px;
+}
+.line{
+        width: 13%;
+        border: 1px solid black;
+        
+        border-radius: 2px;
+        margin-top: -20px;
+        margin-left: 44%;
+}
+/* ///////////start More page//////////////// */
+.white-cat{
+
+        height: 300px;
+        margin: auto;
+        display: block;
+}
+.gray-cat{
+        height: 300px;
+        margin: auto;
+        display: block;
+}
